@@ -4,6 +4,12 @@ Meu nome é Erikson William sou desenvolvedor de software em Manaus/AM. Estudios
 
 ----------
 
+## Formação
+
+Bacharel Ciência da Computação – Fucapi 
+
+----------
+
 ## 🔧 Tecnologias & Ferramentas
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
