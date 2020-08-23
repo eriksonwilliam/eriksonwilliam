@@ -1,8 +1,8 @@
-![Header](https://raw.githubusercontent.com/eriksonwilliam/eriksonWilliam/master/assets/131825.jpg "Header")
+![Header](https://raw.githubusercontent.com/eriksonwilliam/eriksonwilliam/master/assets/131825.jpg "Header")
 
 ----------
 
-# <img src="https://raw.githubusercontent.com/eriksonwilliam/eriksonWilliam/blob/master/assets/hi.gif" width="22px"> Hey!
+## Hey! <img src="https://github.com/eriksonwilliam/eriksonwilliam/blob/master/assets/hi.gif" width="22px">
 
 Meu nome é Erikson William sou desenvolvedor de software em Manaus/AM. Estudioso de Machine Learning e Data Science.
 
