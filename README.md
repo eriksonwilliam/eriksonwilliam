@@ -1,4 +1,8 @@
-# 👋 Hey!
+![Header](https://raw.githubusercontent.com/eriksonwilliam/eriksonWilliam/master/assets/131825.jpg "Header")
+
+----------
+
+# <img src="https://raw.githubusercontent.com/eriksonwilliam/eriksonWilliam/blob/master/assets/hi.gif" width="22px"> Hey!
 
 Meu nome é Erikson William sou desenvolvedor de software em Manaus/AM. Estudioso de Machine Learning e Data Science.
 
