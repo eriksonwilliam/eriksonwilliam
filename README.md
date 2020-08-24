@@ -8,7 +8,7 @@ Meu nome é Erikson William sou desenvolvedor de software em Manaus/AM. Estudios
 
 ----------
 
-## Formação
+##  <img src="https://github.com/eriksonwilliam/eriksonwilliam/blob/master/assets/business-graduation-cap-icon.png" width="18px"> Formação
 
 Bacharel Ciência da Computação – Fucapi 
 
@@ -26,3 +26,12 @@ Bacharel Ciência da Computação – Fucapi
 <code><img height="32" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+
+----------
+
+## <img src="https://github.com/eriksonwilliam/eriksonwilliam/blob/master/assets/estudos.png" width="18px"> Estudos Atualmente
+
+<code><img height="32" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></a></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
