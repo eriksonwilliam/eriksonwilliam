@@ -35,3 +35,4 @@ Bacharel Ciência da Computação – Fucapi
 
 <code><img height="32" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></a></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
