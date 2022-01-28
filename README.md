@@ -14,9 +14,9 @@ Bacharel Ciência da Computação – FUCAPI.
 
 ### Pós graduação
 
-MBA em Big data e inteligência na gest~çao de dados - UNICIV.
-Computação em nuvem e aplicativos móveis - UNICIV.
-Internet das coisas (IOT) - UNICIV.
+MBA em Big data e inteligência na gestão de dados - UNICIV.  
+Computação em nuvem e aplicativos móveis - UNICIV.  
+Internet das coisas (IOT) - UNICIV.  
 
 ----------
 
