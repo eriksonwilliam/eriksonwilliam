@@ -4,13 +4,19 @@
 
 ## Hey! <img src="https://github.com/eriksonwilliam/eriksonwilliam/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é Erikson William sou desenvolvedor de software backend de Manaus/AM, Morando em Goiânia/GO Estudioso de Machine Learning e Data Science.
+Meu nome é Erikson William sou desenvolvedor de software backend de Manaus/AM, Morando em Goiânia/GO. Estudioso de Machine Learning e Data Science.
 
 ----------
 
 ##  <img src="https://github.com/eriksonwilliam/eriksonwilliam/blob/master/assets/business-graduation-cap-icon.png" width="18px"> Formação
 
-Bacharel Ciência da Computação – Fucapi 
+Bacharel Ciência da Computação – FUCAPI.
+
+### Pós graduação
+
+MBA em Big data e inteligência na gest~çao de dados - UNICIV.
+Computação em nuvem e aplicativos móveis - UNICIV.
+Internet das coisas (IOT) - UNICIV.
 
 ----------
 
