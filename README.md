@@ -4,7 +4,7 @@
 
 ## Hey! <img src="https://github.com/eriksonwilliam/eriksonwilliam/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é Erikson William sou desenvolvedor de software em Manaus/AM. Estudioso de Machine Learning e Data Science.
+Meu nome é Erikson William sou desenvolvedor de software backend de Manaus/AM, Morando em Goiânia/GO Estudioso de Machine Learning e Data Science.
 
 ----------
 
@@ -18,7 +18,7 @@ Bacharel Ciência da Computação – Fucapi
 <code><img height="32" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
-<code><img height="32" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/quarkus.svg"></a></code>
+<code><img height="30" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/quarkus.svg"></a></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></a></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
