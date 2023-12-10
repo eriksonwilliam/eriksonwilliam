@@ -28,7 +28,7 @@ Internet das coisas (IOT) - UNICIV.
 <code><img height="32" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></a></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></a></code
+<code><img height="32" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></a></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a></code>
