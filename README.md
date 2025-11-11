@@ -17,7 +17,7 @@ Sou estudioso de **Machine Learning**, **Data Science** e da aplicação de **IA
 <code><img height="32" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg"></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 
