@@ -2,9 +2,17 @@
 
 ----------
 
-## Hey! <img src="https://github.com/eriksonwilliam/eriksonwilliam/blob/master/assets/hi.gif" width="22px">
+## Hey! <img src="https://github.com/eriksonwilliam/eriksonwilliam/blob/master/assets/hi.gif" width="22pxs>
+Olá, eu sou o Erikson William  
 
-Meu nome é Erikson William sou desenvolvedor de software backend de Manaus/AM, Morando em Goiânia/GO. Estudioso de Machine Learning e Data Science.
+Sou **Desenvolvedor Backend** e **Solution Architect**, natural de Manaus/AM e atualmente morando em Goiânia/GO.  
+Tenho ampla experiência no **desenho e desenvolvimento de sistemas distribuídos**, **microserviços** e **integrações escaláveis**, com foco em **Java (Spring Boot)**, **Node.js/NestJS** e **boas práticas de arquitetura limpa**.  
+
+Atuo em projetos estratégicos que envolvem **engenharia de software, cloud e integração com IA generativa**, como o **Playbook de MCPs (Amazon Q Developer)**, aplicando conceitos modernos de **governança técnica, reuso e padrões de arquitetura**.  
+
+Sou também **entusiasta de Machine Learning e Data Science**, com interesse em aplicar inteligência artificial para resolver problemas reais de negócio.  
+
+📚 Sempre aprendendo, pesquisando e construindo soluções que unam **tecnologia, propósito e impacto.**
 
 ----------
 
