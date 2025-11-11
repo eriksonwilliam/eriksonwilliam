@@ -1,36 +1,16 @@
-![Header](https://raw.githubusercontent.com/eriksonwilliam/eriksonwilliam/master/assets/131825.jpg "Header")
+# 👋 Olá, eu sou **Erikson William**
 
----
+Sou **desenvolvedor de software backend**, natural de **Manaus/AM** e atualmente morando em **Goiânia/GO**.  
+Apaixonado por tecnologia, sistemas distribuídos e inteligência artificial, atuo com foco em **arquiteturas escaláveis, engenharia de software e IA aplicada**.
 
-## Hey! <img src="https://github.com/eriksonwilliam/eriksonwilliam/blob/master/assets/hi.gif" width="22px">  
-Olá, eu sou o **Erikson William** 👋  
-
-Sou **Solution Architect** e **Backend Developer**, natural de **Manaus/AM** e atualmente morando em **Goiânia/GO**.  
-Tenho mais de uma década de experiência construindo **sistemas distribuídos**, **arquiteturas orientadas a eventos** e **soluções escaláveis** em **Java (Spring Boot)**, **Node.js/NestJS**, e **arquiteturas em nuvem (AWS, Azure, GCP)**.  
-
-Atuo liderando times e definindo **padrões técnicos**, **boas práticas de engenharia** e **blueprints de arquitetura** — sempre com foco em **Clean Code, performance e governança técnica**.  
-Tenho trabalhado em iniciativas que unem **engenharia de software e inteligência artificial**, aplicando **Model Context Protocol (MCP)**, **multi-agents** e **sistemas de IA generativa**.  
-
-Sou também **entusiasta de Machine Learning e Data Science**, pesquisando continuamente como IA pode aprimorar processos e decisões técnicas.  
-
-📚 Apaixonado por aprender, ensinar e construir soluções que geram **impacto real**.
-
----
-
-## 🎓 Formação
-
-**Bacharelado:** Ciência da Computação – FUCAPI  
-
-**Pós-graduações:**  
-- MBA em Big Data e Inteligência na Gestão de Dados – UNICIV  
-- Computação em Nuvem e Aplicativos Móveis – UNICIV  
-- Internet das Coisas (IoT) – UNICIV  
+Tenho experiência em **desenvolvimento backend com Java, Spring Boot, Node.js (NestJS)** e **Python**, além de ampla familiaridade com **bancos de dados relacionais e não-relacionais**, **mensageria**, **monitoramento**, **DevOps** e **cloud**.  
+Sou estudioso de **Machine Learning**, **Data Science** e da aplicação de **IA generativa e multi-agents** em ambientes corporativos, com interesse crescente em **Model Context Protocol (MCP)** e **automação inteligente de contexto**.
 
 ---
 
 ## ⚙️ Tecnologias & Ferramentas
 
-<code><img height="32" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+**Backend & Frameworks**  
 <code><img height="32" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/quarkus.svg"></code>
@@ -40,11 +20,15 @@ Sou também **entusiasta de Machine Learning e Data Science**, pesquisando conti
 <code><img height="32" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+
+**Cloud & Infraestrutura**  
 <code><img height="32" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+
+**Banco de Dados & Observabilidade**  
 <code><img height="32" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
@@ -69,6 +53,18 @@ Sou também **entusiasta de Machine Learning e Data Science**, pesquisando conti
 
 ---
 
-📫 **Conecte-se comigo:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eriksonwilliam)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/eriksonwilliam)
+## 🌱 Interesses e foco atual
+
+- Engenharia de software e **inteligência artificial aplicada**  
+- **Arquiteturas distribuídas** e **sistemas reativos**  
+- **Model Context Protocol (MCP)**, **multi-agents** e **sistemas de IA generativa**  
+- **Machine Learning** orientado a dados de negócio  
+- **Cloud-native** e automação com **Terraform** e **Kubernetes**  
+- **Boas práticas**, **Clean Code** e **SOLID** no ecossistema Java  
+
+---
+
+## 🌐 Onde me encontrar
+
+📫 [LinkedIn](https://www.linkedin.com/in/erikson-william)  
+💻 [GitHub](https://github.com/eriksonwilliam)
