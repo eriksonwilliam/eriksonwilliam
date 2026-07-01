@@ -72,29 +72,28 @@ Sou estudioso de **Machine Learning**, **Data Science** e da aplicação de **IA
 ## 🌱 Interesses e foco atual
 
 - Engenharia de software e **inteligência artificial aplicada**
-- - **Arquiteturas distribuídas** e **sistemas reativos**
-  - - **Model Context Protocol (MCP)**, **multi-agents** e **sistemas de IA generativa**
-    - - **Machine Learning** orientado a dados de negócio
-      - - **Cloud-native** e automação com **Terraform** e **Kubernetes**
-        - - **Boas práticas**, **Clean Code** e **SOLID** no ecossistema Java
-         
-          - ---
+- **Arquiteturas distribuídas** e **sistemas reativos**
+- **Model Context Protocol (MCP)**, **multi-agents** e **sistemas de IA generativa**
+- **Machine Learning** orientado a dados de negócio
+- **Cloud-native** e automação com **Terraform** e **Kubernetes**
+- **Boas práticas**, **Clean Code** e **SOLID** no ecossistema Java
+---
 
-          ## 🌐 Onde me encontrar
+## 🌐 Onde me encontrar
 
-          📫 [LinkedIn](https://www.linkedin.com/in/erikson-william)
-          💻 [GitHub](https://github.com/eriksonwilliam)
+📫 [LinkedIn](https://www.linkedin.com/in/erikson-william)
+💻 [GitHub](https://github.com/eriksonwilliam)
 
-          ---
+---
 
-          ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-          <div align="center">
+<div align="center">
 
-          ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriksonwilliam&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriksonwilliam&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-          ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriksonwilliam&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriksonwilliam&layout=compact&theme=dark)
 
-          ![GitHub Streak](https://streak-stats.demolab.com?user=eriksonwilliam&theme=dark&locale=pt_BR)
+![GitHub Streak](https://streak-stats.demolab.com?user=eriksonwilliam&theme=dark&locale=pt_BR)
 
-          </div>
+</div>
