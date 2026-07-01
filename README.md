@@ -68,3 +68,18 @@ Sou estudioso de **Machine Learning**, **Data Science** e da aplicação de **IA
 
 📫 [LinkedIn](https://www.linkedin.com/in/erikson-william)  
 💻 [GitHub](https://github.com/eriksonwilliam)
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriksonwilliam&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriksonwilliam&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=eriksonwilliam&theme=dark&locale=pt_BR)
+
+</div>
