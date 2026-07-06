@@ -56,6 +56,33 @@ Sou estudioso de **Machine Learning**, **Data Science** e da aplicação de **IA
 
 ---
 
+## 🚀 Projetos em destaque — série de arquitetura de referência
+
+Uma série de templates públicos com a **mesma disciplina** (arquitetura em
+camadas, **cobertura de testes 100%**, CI e Docker) aplicada a linguagens e
+paradigmas diferentes — para comparar de igual para igual.
+
+**Fundamentos & padrões**
+- [reference-architecture-node](https://github.com/eriksonwilliam/reference-architecture-node) — arquitetura hexagonal (Node · Fastify · TS)
+- [nestjs-cqrs-event-sourcing](https://github.com/eriksonwilliam/nestjs-cqrs-event-sourcing) — CQRS + Event Sourcing (NestJS)
+- [go-wallet-pix](https://github.com/eriksonwilliam/go-wallet-pix) — carteira com PIX simulado, só stdlib (Go)
+- [k8s-gitops-platform](https://github.com/eriksonwilliam/k8s-gitops-platform) — deploy GitOps (Terraform · Helm · ArgoCD)
+
+**Mesma API, 4 frameworks (comparativo direto)**
+- [spring-boot-graalvm-native](https://github.com/eriksonwilliam/spring-boot-graalvm-native) — Spring Boot 3 + imagem nativa GraalVM
+- [quarkus-catalog](https://github.com/eriksonwilliam/quarkus-catalog) — Quarkus + GraalVM
+- [ktor-catalog](https://github.com/eriksonwilliam/ktor-catalog) — Ktor (Kotlin)
+- [dotnet-aspire-catalog](https://github.com/eriksonwilliam/dotnet-aspire-catalog) — .NET 9 · Minimal APIs · Aspire · EF Core
+
+**Alta performance, edge & nichos**
+- [rust-url-shortener](https://github.com/eriksonwilliam/rust-url-shortener) — API assíncrona (Rust · axum)
+- [deno-edge-flags](https://github.com/eriksonwilliam/deno-edge-flags) — feature flags na edge (Deno · Hono)
+- [cloudflare-workers-snippets](https://github.com/eriksonwilliam/cloudflare-workers-snippets) — snippets com TTL na edge (Workers · KV)
+- [clojure-xtdb-ledger](https://github.com/eriksonwilliam/clojure-xtdb-ledger) — ledger de dupla entrada sobre banco imutável (Clojure · XTDB)
+- [elixir-phoenix-chat](https://github.com/eriksonwilliam/elixir-phoenix-chat) — chat em tempo real (Elixir · Phoenix Channels)
+
+---
+
 ## 📘 Atualmente estudando
 
 ![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
