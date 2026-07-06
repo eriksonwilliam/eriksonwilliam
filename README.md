@@ -84,7 +84,8 @@ paradigmas diferentes — para comparar de igual para igual.
 **Sistemas distribuídos, IA & dados**
 - [fastapi-rag](https://github.com/eriksonwilliam/fastapi-rag) — serviço de RAG (Retrieval-Augmented Generation) com LLM plugável (Python · FastAPI)
 - [grpc-go-nestjs](https://github.com/eriksonwilliam/grpc-go-nestjs) — integração poliglota via gRPC (Go ↔ NestJS)
-- [framework-benchmarks](https://github.com/eriksonwilliam/framework-benchmarks) — comparativo real (startup/memória/throughput) dos 4 catálogos
+- [event-driven-orders](https://github.com/eriksonwilliam/event-driven-orders) — saga por coreografia sobre broker de eventos (Go · Kafka)
+- [framework-benchmarks](https://github.com/eriksonwilliam/framework-benchmarks) — comparativo real (startup/memória/throughput) dos 4 catálogos, JVM e nativo (GraalVM)
 
 ---
 
