@@ -85,6 +85,7 @@ paradigmas diferentes — para comparar de igual para igual.
 - [fastapi-rag](https://github.com/eriksonwilliam/fastapi-rag) — serviço de RAG (Retrieval-Augmented Generation) com LLM plugável (Python · FastAPI)
 - [grpc-go-nestjs](https://github.com/eriksonwilliam/grpc-go-nestjs) — integração poliglota via gRPC (Go ↔ NestJS)
 - [event-driven-orders](https://github.com/eriksonwilliam/event-driven-orders) — saga por coreografia sobre broker de eventos (Go · Kafka)
+- [otel-observability](https://github.com/eriksonwilliam/otel-observability) — instrumentação OpenTelemetry (RED + traces) com stack Grafana/Tempo/Prometheus (Python · FastAPI)
 - [framework-benchmarks](https://github.com/eriksonwilliam/framework-benchmarks) — comparativo real (startup/memória/throughput) dos 4 catálogos, JVM e nativo (GraalVM)
 
 ---
