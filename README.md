@@ -81,7 +81,8 @@ paradigmas diferentes — para comparar de igual para igual.
 - [clojure-xtdb-ledger](https://github.com/eriksonwilliam/clojure-xtdb-ledger) — ledger de dupla entrada sobre banco imutável (Clojure · XTDB)
 - [elixir-phoenix-chat](https://github.com/eriksonwilliam/elixir-phoenix-chat) — chat em tempo real (Elixir · Phoenix Channels)
 
-**Sistemas distribuídos & dados**
+**Sistemas distribuídos, IA & dados**
+- [fastapi-rag](https://github.com/eriksonwilliam/fastapi-rag) — serviço de RAG (Retrieval-Augmented Generation) com LLM plugável (Python · FastAPI)
 - [grpc-go-nestjs](https://github.com/eriksonwilliam/grpc-go-nestjs) — integração poliglota via gRPC (Go ↔ NestJS)
 - [framework-benchmarks](https://github.com/eriksonwilliam/framework-benchmarks) — comparativo real (startup/memória/throughput) dos 4 catálogos
 
