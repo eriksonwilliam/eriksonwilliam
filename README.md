@@ -76,6 +76,7 @@ paradigmas diferentes — para comparar de igual para igual.
 
 **Alta performance, edge & nichos**
 - [rust-url-shortener](https://github.com/eriksonwilliam/rust-url-shortener) — API assíncrona (Rust · axum)
+- [wasm-mandelbrot](https://github.com/eriksonwilliam/wasm-mandelbrot) — fractal em WebAssembly, compute pesado no navegador (Rust · WASM)
 - [deno-edge-flags](https://github.com/eriksonwilliam/deno-edge-flags) — feature flags na edge (Deno · Hono)
 - [cloudflare-workers-snippets](https://github.com/eriksonwilliam/cloudflare-workers-snippets) — snippets com TTL na edge (Workers · KV)
 - [clojure-xtdb-ledger](https://github.com/eriksonwilliam/clojure-xtdb-ledger) — ledger de dupla entrada sobre banco imutável (Clojure · XTDB)
