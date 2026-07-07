@@ -89,6 +89,7 @@ paradigmas diferentes — para comparar de igual para igual.
 - [auth-service](https://github.com/eriksonwilliam/auth-service) — autenticação (JWT HS256 próprio) e autorização RBAC com rotação de refresh (Go)
 - [event-driven-orders](https://github.com/eriksonwilliam/event-driven-orders) — saga por coreografia sobre broker de eventos (Go · Kafka)
 - [otel-observability](https://github.com/eriksonwilliam/otel-observability) — instrumentação OpenTelemetry (RED + traces) com stack Grafana/Tempo/Prometheus (Python · FastAPI)
+- [stream-windows](https://github.com/eriksonwilliam/stream-windows) — streaming/ETL com janelas tumbling e watermark (Python · Kafka)
 - [orders-web](https://github.com/eriksonwilliam/orders-web) — front-end full-stack consumindo a API de pedidos, cobertura 100% (React · Vite · TS)
 - [framework-benchmarks](https://github.com/eriksonwilliam/framework-benchmarks) — comparativo real (startup/memória/throughput) dos 4 catálogos, JVM e nativo (GraalVM)
 
