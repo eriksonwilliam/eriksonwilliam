@@ -85,6 +85,7 @@ paradigmas diferentes — para comparar de igual para igual.
 - [fastapi-rag](https://github.com/eriksonwilliam/fastapi-rag) — serviço de RAG (Retrieval-Augmented Generation) com LLM plugável (Python · FastAPI)
 - [grpc-go-nestjs](https://github.com/eriksonwilliam/grpc-go-nestjs) — integração poliglota via gRPC (Go ↔ NestJS)
 - [graphql-blog-api](https://github.com/eriksonwilliam/graphql-blog-api) — API GraphQL com N+1 resolvido via DataLoader (Node · TypeScript)
+- [auth-service](https://github.com/eriksonwilliam/auth-service) — autenticação (JWT HS256 próprio) e autorização RBAC com rotação de refresh (Go)
 - [event-driven-orders](https://github.com/eriksonwilliam/event-driven-orders) — saga por coreografia sobre broker de eventos (Go · Kafka)
 - [otel-observability](https://github.com/eriksonwilliam/otel-observability) — instrumentação OpenTelemetry (RED + traces) com stack Grafana/Tempo/Prometheus (Python · FastAPI)
 - [orders-web](https://github.com/eriksonwilliam/orders-web) — front-end full-stack consumindo a API de pedidos, cobertura 100% (React · Vite · TS)
