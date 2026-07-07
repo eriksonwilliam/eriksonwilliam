@@ -85,6 +85,7 @@ paradigmas diferentes — para comparar de igual para igual.
 
 **Sistemas distribuídos, IA & dados**
 - [fastapi-rag](https://github.com/eriksonwilliam/fastapi-rag) — serviço de RAG (Retrieval-Augmented Generation) com LLM plugável (Python · FastAPI)
+- [mini-ml](https://github.com/eriksonwilliam/mini-ml) — machine learning do zero (regressão, k-means, k-NN) sem framework (Python)
 - [grpc-go-nestjs](https://github.com/eriksonwilliam/grpc-go-nestjs) — integração poliglota via gRPC (Go ↔ NestJS)
 - [graphql-blog-api](https://github.com/eriksonwilliam/graphql-blog-api) — API GraphQL com N+1 resolvido via DataLoader (Node · TypeScript)
 - [auth-service](https://github.com/eriksonwilliam/auth-service) — autenticação (JWT HS256 próprio) e autorização RBAC com rotação de refresh (Go)
