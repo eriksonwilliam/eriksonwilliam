@@ -79,6 +79,7 @@ paradigmas diferentes — para comparar de igual para igual.
 - [wasm-mandelbrot](https://github.com/eriksonwilliam/wasm-mandelbrot) — fractal em WebAssembly, compute pesado no navegador (Rust · WASM)
 - [jpath](https://github.com/eriksonwilliam/jpath) — mini-jq: consulta JSON por caminho na linha de comando (Rust · CLI)
 - [game-of-life](https://github.com/eriksonwilliam/game-of-life) — Jogo da Vida de Conway com GIF gerado só pela stdlib (Go)
+- [n8n-nodes-redact](https://github.com/eriksonwilliam/n8n-nodes-redact) — node do n8n que mascara PII (cartão via Luhn, CPF, IP) antes de sair do workflow (TypeScript)
 - [deno-edge-flags](https://github.com/eriksonwilliam/deno-edge-flags) — feature flags na edge (Deno · Hono)
 - [cloudflare-workers-snippets](https://github.com/eriksonwilliam/cloudflare-workers-snippets) — snippets com TTL na edge (Workers · KV)
 - [clojure-xtdb-ledger](https://github.com/eriksonwilliam/clojure-xtdb-ledger) — ledger de dupla entrada sobre banco imutável (Clojure · XTDB)
